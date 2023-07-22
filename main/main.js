@@ -155,12 +155,12 @@ const main = {
             </section>
           </div>
         </div>
-        <div id="sidebar" style={{ backgroundColor: "black" }}>
+        <div id="sidebar" style={{ backgroundColor: "#141414" }}>
           <div className="inner">
             <section
               id="search"
               className="alt"
-              style={{ backgroundColor: "black" }}
+              style={{ backgroundColor: "#141414" }}
             >
               <form method="post" action="#">
                 <input
