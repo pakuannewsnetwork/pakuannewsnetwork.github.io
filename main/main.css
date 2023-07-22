@@ -1,0 +1,6 @@
+a {
+  color: rgb(20, 188, 197);
+}
+ul.contact li:first-child:before {
+  color: rgb(20, 188, 197);
+}
